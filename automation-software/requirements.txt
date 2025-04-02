@@ -1,0 +1,6 @@
+# Requirements
+asyncio>=3.4.3
+pytest>=8.3.5
+pytest-asyncio>=0.26.0
+tenacity>=9.1.2
+pydantic>=2.11.1
